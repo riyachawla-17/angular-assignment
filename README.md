@@ -15,3 +15,4 @@ It demonstrates:
 
 ## Deployment
 The project is deployed on Vercel using a static SPA build with `outputMode: "static"` and a `vercel.json` rewrite to handle routing.
+https://angular-assignment-1-omega.vercel.app/
